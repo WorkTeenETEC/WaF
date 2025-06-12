@@ -1,0 +1,17 @@
+[2025-06-12 03:50:16] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:53:36] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:53:40] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:53:44] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:55:31] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:56:39] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:57:34] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:57:38] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 03:58:48] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[12/06/2025 04:00:38] IP: ::1 | Acesso bloqueado pelo WAF
+[12/06/2025 04:00:50] IP: ::1 | Acesso bloqueado pelo WAF
+[2025-06-12 04:03:01] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 04:04:33] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 04:04:53] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 04:09:35] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')</script>
+[2025-06-12 04:10:51] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')...
+[2025-06-12 04:11:24] IP: ::1 | Descrição: Possível XSS | Valor detectado: <script>alert('XSS')********
