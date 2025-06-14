@@ -1,5 +1,5 @@
 # WaF
-Um Firewall para Aplicações Web's
+Um Firewall para Aplicações Web's ||
 usar o Include do blocked em forms que deseja proteger
 
 /Waf/
